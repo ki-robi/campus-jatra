@@ -1,0 +1,5 @@
+package Properties
+
+@interface java {
+
+}

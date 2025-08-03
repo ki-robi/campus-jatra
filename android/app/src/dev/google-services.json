@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "798623055286",
+    "firebase_url": "https://iot-gps-c3a1d-default-rtdb.firebaseio.com",
+    "project_id": "iot-gps-c3a1d",
+    "storage_bucket": "iot-gps-c3a1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798623055286:android:0a43f1fdba4322efad1517",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRCDFSMbWhxYNVmikx4_feiRTq5G2OsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

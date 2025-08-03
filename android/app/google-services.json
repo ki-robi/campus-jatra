@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "49696513954",
+    "firebase_url": "https://neo-6m-gps-with-esp8266-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "neo-6m-gps-with-esp8266",
+    "storage_bucket": "neo-6m-gps-with-esp8266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49696513954:android:b5f130e85beda81ddadcfb",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfeFjoajc-b1K0V66ucOzogzrPmvblVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
